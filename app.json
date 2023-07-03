@@ -1,9 +1,16 @@
 {
   "expo": {
     "name": "gofinances",
+    "currentFullName": "gofinances",
+    "originalFullName": "@natanielcodes/gofinances",
     "slug": "gofinances",
     "scheme": "gofinances",
     "version": "1.0.0",
-    "assetBundlePatterns": ["**/*"]
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "a4e8bc69-13c0-49ed-923e-f6c7d8346159"
+      }
+    }
   }
 }
